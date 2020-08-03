@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentDataResult</string>
+    <string name="input_new_text">Input new text</string>
+    <string name="confirm">Confirm</string>
+    <string name="example_text">Example Text</string>
+    <string name="edit">Edit</string>
+</resources>

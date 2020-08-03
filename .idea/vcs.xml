@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CameraRuntime" vcs="" />
+    <mapping directory="$PROJECT_DIR$/FragmentExample" vcs="" />
+    <mapping directory="$PROJECT_DIR$/ImplicitIntent" vcs="" />
+    <mapping directory="$PROJECT_DIR$/IntentDataResult" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Layout_1712878" vcs="" />
+    <mapping directory="$PROJECT_DIR$/ListViewNangCao" vcs="" />
+    <mapping directory="$PROJECT_DIR$/NavigationBarBottom" vcs="" />
+    <mapping directory="$PROJECT_DIR$/Note" vcs="" />
+    <mapping directory="$PROJECT_DIR$/PhoneVerification" vcs="" />
+    <mapping directory="$PROJECT_DIR$/PickerDialog" vcs="" />
+    <mapping directory="$PROJECT_DIR$/RelativeLayout_KP" vcs="" />
+  </component>
+</project>

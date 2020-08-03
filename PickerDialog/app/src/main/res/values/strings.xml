@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PickerDialog</string>
+    <string name="txtChonNgay">Chọn ngày:</string>
+    <string name="edtChonNgay">Chọn ngày</string>
+    <string name="txtChonGio">Chọn giờ:</string>
+    <string name="edtChonGio">Chọn giờ</string>
+</resources>

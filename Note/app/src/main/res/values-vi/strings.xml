@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ứng dụng ghi chú</string>
+    <string name="add_fail">Thêm ghi chú thất bại!</string>
+    <string name="add_success">Thêm ghi chú thành công!</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="confirm_delete">Xác nhận xóa</string>
+    <string name="content">"Nội dung: "</string>
+    <string name="delete_fail">Xóa thất bại!!!</string>
+    <string name="delete_note">Xóa ghi chú</string>
+    <string name="discard">Hủy bỏ</string>
+    <string name="hint_input_content">Nhập ghi chú của bạn tại đây</string>
+    <string name="hint_input_tag">Nhập tag tại đây</string>
+    <string name="hint_input_title">Nhập tiêu đề cho ghi chú</string>
+    <string name="last_save">"Sửa đổi lần cuối: "</string>
+    <string name="new_note">Tạo ghi chú mới</string>
+    <string name="no">Không</string>
+    <string name="question_delete">"Bạn có chắc chắn muốn xóa: "</string>
+    <string name="save">Lưu lại</string>
+    <string name="search_note">Tìm kiếm ghi chú</string>
+    <string name="title">"Tiêu đề: "</string>
+    <string name="update">Cập nhật</string>
+    <string name="update_fail">Cập nhật thất bại</string>
+    <string name="update_success">Cập nhật thành công</string>
+    <string name="yes">Có</string>
+    <string name="all_note">Tất cả ghi chú</string>
+    <string name="edit_note">Sửa ghi chú</string>
+    <string name="setting">Cài đặt</string>
+    <string name="about">Giới thiệu</string>
+    <string name="coming_soon">Chưa hỗ trợ tính năng này!</string>
+    <string name="no_title">Không có tiêu đề</string>
+    <string name="no_tag">Không có tag</string>
+    <string name="delete_all">Xóa tất cả ghi chú</string>
+</resources>

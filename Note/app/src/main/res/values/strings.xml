@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="new_note">New Note</string>
+    <string name="search_note">Search Note</string>
+    <string name="hint_input_title">Enter your note title</string>
+    <string name="title">"Title:  "</string>
+    <string name="tag" translatable="false">"Tag: "</string>
+    <string name="content">"Content: "</string>
+    <string name="hint_input_content">Input your note here</string>
+    <string name="hint_input_tag">Input tag here</string>
+    <string name="last_save">"Last modified: "</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_success">Add note success!</string>
+    <string name="add_fail">Add note fail!</string>
+    <string name="error_tag" translatable="false">tk.nttuan.note.ERROR</string>
+    <string name="confirm_delete">Confirm delete</string>
+    <string name="question_delete">"Are you sure to delete: "</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_fail">Delete fail !!!</string>
+    <string name="discard">Discard</string>
+    <string name="update">Update</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="update_success">Update success</string>
+    <string name="update_fail">Update fail</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="all_note">All notes</string>
+    <string name="edit_note">Edit note</string>
+    <string name="coming_soon">Coming soon!</string>
+    <string name="about_author" translatable="false">1712878 - Nguyễn Thọ Tuấn</string>
+    <string name="no_title">No title</string>
+    <string name="no_tag">No tag</string>
+    <string name="delete_all">Delete All Notes</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3889546517454152/7681599266</string>
+</resources>

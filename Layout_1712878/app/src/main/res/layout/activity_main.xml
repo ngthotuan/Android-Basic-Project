@@ -1,0 +1,29 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/btnCalculator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_calculator" />
+    <Button
+        android:id="@+id/btnGoogleMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_googlemap" />
+
+    <Button
+        android:id="@+id/btnAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_alarm" />
+
+    <Button
+        android:id="@+id/btnCreateAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_create_alarm" />
+</LinearLayout>

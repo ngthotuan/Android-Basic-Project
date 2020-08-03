@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="txtLink">Nhập link muốn truy câp:</string>
+    <string name="edtLinkExample">http://nttuan.tk</string>
+    <string name="txtTruyCapButton">Truy cập</string>
+    <string name="txtNhapSDT">Nhập số điện thoại</string>
+    <string name="sms">SMS</string>
+    <string name="txtNhapNoiDUng">Nhập nội dung tin nhắn</string>
+    <string name="txtPhoneCall">Nhập SĐT để gọi</string>
+    <string name="call">CALL</string>
+</resources>

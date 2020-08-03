@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CameraRuntime</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="todo">TODO</string>
+    <string name="alert_permission_camera">App need camera permission to take a photo</string>
+</resources>

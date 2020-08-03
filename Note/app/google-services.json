@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501976351939",
+    "firebase_url": "https://note-app-nttuan.firebaseio.com",
+    "project_id": "note-app-nttuan",
+    "storage_bucket": "note-app-nttuan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501976351939:android:53067d2109956ddfdece76",
+        "android_client_info": {
+          "package_name": "tk.nttuan.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501976351939-hgvhmcrumcdbog85227812d8vh8t6i1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoYDvnEcFAF8M7Pa-i1W5d4uDJibaDcH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501976351939-hgvhmcrumcdbog85227812d8vh8t6i1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
