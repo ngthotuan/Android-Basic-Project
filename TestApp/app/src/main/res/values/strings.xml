@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TestApp</string>
+    <string name="button_send">Send</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="empty_message">Empty Message</string>
+    <string name="empty_value">You not input a string value!!!</string>
 </resources>
