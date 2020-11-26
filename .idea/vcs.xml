@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AutoLogin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CameraRuntime" vcs="" />
     <mapping directory="$PROJECT_DIR$/FragmentExample" vcs="" />
     <mapping directory="$PROJECT_DIR$/ImplicitIntent" vcs="" />
@@ -13,5 +14,6 @@
     <mapping directory="$PROJECT_DIR$/PhoneVerification" vcs="" />
     <mapping directory="$PROJECT_DIR$/PickerDialog" vcs="" />
     <mapping directory="$PROJECT_DIR$/RelativeLayout_KP" vcs="" />
+    <mapping directory="$PROJECT_DIR$/travel" vcs="Git" />
   </component>
 </project>
